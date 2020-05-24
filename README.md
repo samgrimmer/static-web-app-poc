@@ -1,13 +1,5 @@
----
-page_type: sample
-languages:
-  - javascript
-  - typescript
-products:
-  - azure functions
-description: 'Apps that can be used with as a starting point for some MS Learn Modules.'
-urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp'
----
+![Azure Static Web Apps CI/CD](https://github.com/samgrimmer/static-web-app-poc/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
+
 
 # Official Microsoft Sample
 
